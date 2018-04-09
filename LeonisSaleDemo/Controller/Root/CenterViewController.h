@@ -1,0 +1,14 @@
+//
+//  CenterViewController.h
+//  LeonisSaleDemo
+//
+//  Created by leo-mobile-lily on 12/22/14.
+//  Copyright (c) 2014 Leonis&Co. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+#import "SuperViewController.h"
+
+@interface CenterViewController : SuperViewController
+
+@end

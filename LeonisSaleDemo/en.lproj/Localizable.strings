@@ -1,0 +1,41 @@
+
+/*TOP*/
+"TOP_TITLE_HOME" = "ホーム";
+"TOP_TITLE_COUPON" = "クーポン";
+"TOP_TITLE_RECOM" = "レコメンデーション";
+
+"TOP_LEFT_TITLE_RESET" = "リセット";
+"TOP_LEFT_TITLE_COUPON_LIST" = "クーポン一覧";
+"TOP_LEFT_TITLE_SITE_OFFER" = "OFFERs特設サイト";
+"TOP_LEFT_TITLE_USER_PHONE" = "端末情報";
+
+"LEFT_SECTION_SERVICE" = "機能";
+"LEFT_SECTION_ACCOUNT" = "アカウント";
+"LEFT_SECTION_OTHER" = "その他";
+
+"LEFT_SETTING_INFO_VERSION" = "アプリバージョン";
+
+/*ボタン 共通*/
+"BTN_CC_OK" = "OK";
+"BTN_CC_CANCEL" = "キャンセル";
+"BTN_CC_CLOSE" = "閉じる";
+"BTN_CC_YES" = "はい";
+"BTN_CC_NO" = "いいえ";
+
+/*メッセージ　エラー*/
+"MSG_ERR_NET_CONNECT_ERR" = "通信に失敗しました。\n電波状況の良いところで再度お試しください。";
+"MSG_ERR_GET_DATA" = "データの取得に失敗しました。";
+"MSG_ERR_GET_DATA_AND_TRY" = "データの取得に失敗しました。\n電波状況の良いところで再度お試しください。";
+"MSG_ERR_GET_DATA_PARA" = "%@の取得に失敗しました。";
+
+/*メッセージ 確認*/
+"MSG_ASK_0001" = "利用しますか？";
+"MSG_ASK_0002" = "削除してもよろしいですか？";
+"MSG_ASK_UPDATE" = "更新してもよろしいですか？";
+"MSG_ASK_RESET" = "リセットしてもよろしいですか？";
+"MSG_ASK_SAVE" = "変更があります。\n保存せずに終了してもよろしいですか？";
+
+
+
+
+
